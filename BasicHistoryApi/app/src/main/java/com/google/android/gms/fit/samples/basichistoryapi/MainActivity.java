@@ -59,7 +59,7 @@ import java.util.concurrent.TimeUnit;
  * query against existing data, and remove data. It also demonstrates how to authenticate a user
  * with Google Play Services and how to properly represent data in a {@link DataSet}.
  */
-public class MainActivity extends AppCompatActivity {
+public class FitActivity extends AppCompatActivity {
   public static final String TAG = "BasicHistoryApi";
   // Identifier to identify the sign in activity.
   private static final int REQUEST_OAUTH_REQUEST_CODE = 1;
